@@ -1,0 +1,5 @@
+ml-latest-small/*
+movielens_data/*
+notebook/*
+code/*.pyc
+.ipynb_checkpoints
